@@ -1,0 +1,21 @@
+safe: true
+pygments: true
+lsi: false
+
+timezone: America/New_York
+
+source: .
+blog:   /
+
+exclude: [Gemfile,Gemfile.lock,README.md]
+destination: ./_site
+layouts: ./_layouts
+relative_permalinks: true
+
+markdown: maruku
+markdown_ext: markdown,mkd,md,mkdn
+textile_ext: textile
+
+layout: default
+
+permalink: /:title
