@@ -83,7 +83,7 @@ Hackathons are fun. Choosing an OAuth library, icons, PaaS, and front-end framew
 
 - [Heroku](http://www.heroku.com/)
 - [OpenShift](https://www.openshift.com)
-- [ngrok](http://hackstart.challengepost.com/ngrok.com) Securely expose a local web server to the internet (great for testing webooks!)
+- [ngrok](https://ngrok.com) Securely expose a local web server to the internet (great for testing webooks!)
 - [srvdir](https://www.srvdir.net/) Make any directory a secure public file server
 
 ###Screenshots / Screencasts
