@@ -12,7 +12,7 @@ destination: ./_site
 layouts: ./_layouts
 relative_permalinks: true
 
-markdown: maruku
+markdown: kramdown
 markdown_ext: markdown,mkd,md,mkdn
 textile_ext: textile
 
