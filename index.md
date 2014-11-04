@@ -17,7 +17,8 @@ Hackathons are fun. Choosing an OAuth library, icons, PaaS, and front-end framew
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications
 - [OpenShift Quickstarts](https://www.openshift.com/quickstarts) Quickstart templates for many different languages and tech stacks
 - [PhoneGap](http://phonegap.com/), [Cordova](https://cordova.apache.org/), and [MacGap](https://github.com/MacGapProject/MacGap1) Create cross platform apps with JavaScript
-
+- [Angular Kickstart](https://github.com/vesparny/angular-kickstart)
+- 
 ##Front-end
 
 ### Frameworks & UI Kits
