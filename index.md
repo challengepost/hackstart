@@ -53,6 +53,7 @@ Hackathons are fun. Choosing an OAuth library, icons, PaaS, and front-end framew
 
 - [Photos and graphics](http://www.sitebuilderreport.com/blog/where-the-best-designers-go-to-find-photos-and-graphics)
 - [Stock photos that don’t suck](https://medium.com/design-ux/62ae4bcbe01b)
+- [The Stocks](http://thestocks.im/) High-quality royalty free stock photos
 
 ##Back-end
 
