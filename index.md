@@ -99,5 +99,5 @@ Hackathons are fun. Choosing an OAuth library, icons, PaaS, and front-end framew
 - [Clipping Magic](http://clippingmagic.com/) Remove image backgrounds
 
 ###Miscellaneous
-
+- [Umbrella](https://github.com/catalinmiron/umbrella) Instant setup & responsive landing page for iOS apps
 - [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) Even more great resources for organizers / participants
